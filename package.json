@@ -193,7 +193,7 @@
     "preval-build-info": "1.0.3",
     "rimraf": "3.0.2",
     "sass": "1.43.3",
-    "simple-git": "2.47.0",
+    "simple-git": "3.16.0",
     "terser": "4.8.0",
     "ts-loader": "5.4.5",
     "ts-mocha": "8.0.0",
